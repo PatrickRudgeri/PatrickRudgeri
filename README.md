@@ -1,5 +1,5 @@
 ### Data Science & Machine Learning enthusiast | Computer Science undergraduate student
-
+![](https://hit.yhype.me/github/profile?user_id=20716307)
 <!--
 **PatrickRudgeri/PatrickRudgeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

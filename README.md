@@ -8,6 +8,9 @@
     <a href="mailto:alrudgeri17@gmail.com" target="_blank"><img alt="gmail" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alrudgeri17@gmail.com"></a>  
      <a href="https://www.kaggle.com/patrickrudgeri" target="_blank"><img alt="kaggle" src="https://img.shields.io/badge/-kaggle-blue?style=flat-square&logo=kaggle&logoColor=white"></a>
 </p>
+
+---
+
 <!--
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@KarinneCristina)](https://medium.com/@KarinneCristina)
 [![Kaggle Badge](https://img.shields.io/badge/-kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/karinne)](https://www.kaggle.com/karinne)

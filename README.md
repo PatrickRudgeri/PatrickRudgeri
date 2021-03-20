@@ -17,10 +17,11 @@
 [![Portifolio Badge](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=Portfolio&logoColor=white&link=https://karinneristina.glitch.me/)](https://karinneristina.glitch.me/)
 -->
 
-
+<div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=PatrickRudgeri&hide=contribs,stars&count_private=true&show_icons=true&theme=onedark&title_color=fdfdfd&text_color=fdfdfd" alt="PatrickRudgeri" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickRudgeri&langs_count=6&layout=compact&theme=onedark&title_color=fdfdfd&text_color=fdfdfd&exclude_repo=trabalho_ed2,hugo-theme-blog-test,estudos_ds,scratches_cpp,testing_fastpages" alt="PatrickRudgeri" /></p>
+</div>
 
 ![](https://hit.yhype.me/github/profile?user_id=20716307)
 <!--

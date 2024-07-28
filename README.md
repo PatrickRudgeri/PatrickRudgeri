@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="welcome_gh.jpg" alt="header"/>
+<!--   <img src="welcome_gh.jpg" alt="header"/> -->
 </div>
 &nbsp;
 
